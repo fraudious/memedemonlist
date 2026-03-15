@@ -1,18 +1,24 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 2,
+    "name": "Back On Track",
+    "author": "Topaladash",
+    "creators": ["Robot_topper", "RobertTopala", "Mike"],
+    "verifier": "FraxGMD",
+    "verification": "https://www.youtube.com/watch?v=V1BHlVIQqsk",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "Not Copyable UNLESS youre using the copy main levels mod",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "Melonpan",
+            "https://www.youtube.com/watch?v=V1BHlVIQqsk",
+            "percent": 77,
+            "hz": 60
+        }
+        {
+            "user": "Glorpzash",
+            "https://www.youtube.com/watch?v=V1BHlVIQqsk",
+            "percent": "19-100",
+            "hz": 60
         }
     ]
 }
