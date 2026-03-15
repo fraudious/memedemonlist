@@ -10,13 +10,13 @@
     "records": [
         {
             "user": "Melonpan",
-            "https://www.youtube.com/watch?v=V1BHlVIQqsk",
+            "link": "https://www.youtube.com/watch?v=V1BHlVIQqsk",
             "percent": 77,
             "hz": 60
         }
         {
             "user": "Glorpzash",
-            "https://www.youtube.com/watch?v=V1BHlVIQqsk",
+            "link": "https://www.youtube.com/watch?v=V1BHlVIQqsk",
             "percent": "19-100",
             "hz": 60
         }
